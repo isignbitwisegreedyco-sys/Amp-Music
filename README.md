@@ -1,4 +1,4 @@
-# Amp-Music
+# cloud sound studio
 
 A lightweight browser music player for direct cloud audio links and music stored on your device.
 
